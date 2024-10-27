@@ -73,6 +73,9 @@
         <mxCell id="BnPgklOCdzFr4PZ2rw3d-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Generate InMemory traces, plantuml file and code flow images.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="295" width="205" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BnPgklOCdzFr4PZ2rw3d-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Figure: Idea 37 - Test-Driven Code flow Visualization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="520" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
